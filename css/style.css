@@ -57,7 +57,7 @@
 
 .hero {
   margin-top: 30px;
-  padding-top: 100px;
+  padding-top: 150px;
   background: #F5FBFC;
 }
 .hero .hero__container {
@@ -147,7 +147,7 @@
 
 .home {
   background: #F5FBFC;
-  padding: 200px 0;
+  padding: 150px 0;
 }
 .home .home__container {
   display: flex;
