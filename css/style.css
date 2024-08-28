@@ -672,7 +672,7 @@
 .footer .footer__blocks .footer__nav {
   display: flex;
   align-items: start;
-  gap: 150px;
+  gap: 100px;
 }
 .footer .footer__blocks .footer__nav .footer__sub-title {
   font-family: Inter;
